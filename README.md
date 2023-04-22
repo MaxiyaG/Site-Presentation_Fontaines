@@ -14,7 +14,7 @@ Ce projet a pour but de présenter notre projet CATI et de localiser les fontain
 
 ## Technologies utilisées
 
-Nous avons utilisé les langages HTML, CSS, JavaScript et Bootstrap pour créer le site web. Nous avons également utilisé l'API Leaflet pour afficher la carte et les marqueurs. La localisation des fontaines a été réalisée directement sur le code JavaScript sans base de données.
+Nous avons utilisé les langages HTML, CSS, JavaScript et Bootstrap pour créer le site web. J'ai également utilisé l'API Leaflet pour afficher la carte et les marqueurs. La localisation des fontaines a été réalisée directement sur le code JavaScript sans base de données.
 
 ## Fonctionnalités
 
