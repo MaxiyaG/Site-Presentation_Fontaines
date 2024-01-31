@@ -1,6 +1,6 @@
 ## Lien du site
 
-Le site web est hébergé en ligne en HTTPS sur le serveur alwaysdata. Vous pouvez accéder au site ici : https://catil3042.alwaysdata.net
+Vous pouvez accéder au site ici : https://maxiyag.github.io/Site-Presentation_Fontaines/
 (Pensez à autoriser l’accès à votre localisation pour visualiser la carte)
 
 # Projet CATI : Localisation des fontaines d'eau
